@@ -1,0 +1,86 @@
+@media (max-width:991px){
+    .company_left_content {
+        text-align: center;
+    }
+    .angel {
+        rotate: 0deg;
+    }
+    .company_right_content {
+        rotate: 350deg;
+        margin-top: 50px;
+    }
+    .portfolio_left_content{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    .team_top_vector {
+        top: -171px;
+        left: 0px;
+    }
+    .team_bottom_vector {
+        bottom: -197px;
+        right: 0px;
+    }
+    .owl-carousel .owl-nav button.owl-prev {
+        left: 47%;
+    }
+    .owl-carousel .owl-nav button.owl-next {
+        left: 53%;
+    }
+    .contact_colour h1 {
+        font-size: 30px;
+    }
+    footer h2 {
+        margin-top: 40px;
+    }
+}
+@media (max-width:767px){
+    .layout img {
+        margin-top: -200px;
+    }
+    .table tbody tr td i {
+        height: 25px;
+        width: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media (max-width:575px){
+    .contact_colour {
+        text-align: center;
+    }
+    .contact_with {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .company_right_content {
+        rotate: 357deg;
+    }
+}
+@media (max-width:485px){
+    .banner h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+@media (max-width:425px){
+    .potential h1 {
+        font-size: 20px;
+    }
+    .business_right_content h2 {
+        font-size: 30px;
+        font-weight: 400;
+    }
+    .company_left_content h2 {
+        font-weight: 400;
+        font-size: 20px;
+    }
+    .company_left_content p {
+        font-size: 13px;
+    }
+    .table thead tr th {
+        font-size: 15px;
+    }
+}
