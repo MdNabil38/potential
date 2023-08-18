@@ -58,6 +58,10 @@
     .company_right_content {
         rotate: 357deg;
     }
+    .review_video {
+    margin-top: 26px;
+    height: 180px;
+}
 }
 @media (max-width:485px){
     .banner h1 {
